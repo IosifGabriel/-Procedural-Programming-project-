@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\iosif-laptop\desktop\iosif_gabriel_143\proiectpp crypt-decrypt-templatematching\proiectpp crypt-decrypt-templatematching\main.c(24): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\iosif-laptop\desktop\iosif_gabriel_143\proiectpp crypt-decrypt-templatematching\proiectpp crypt-decrypt-templatematching\main.c(150): warning C4076: 'unsigned': cannot be used with type 'double'
+  Proiectpp Crypt-Decrypt-TemplateMatching.vcxproj -> C:\Users\Iosif-laptop\Desktop\Iosif_Gabriel_143\Proiectpp Crypt-Decrypt-TemplateMatching\Debug\Proiectpp Crypt-Decrypt-TemplateMatching.exe
